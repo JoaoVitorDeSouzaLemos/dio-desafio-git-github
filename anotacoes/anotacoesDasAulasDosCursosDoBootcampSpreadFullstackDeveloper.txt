@@ -1,0 +1,92 @@
+Curso Lógica de Programação Essencial
+
+Tópico Introdução à lógica e à programação
+
+Aula 01:
+1. Entender o que é lógica e lógica de programação;
+2. Entender e criar um mapa mental para resolução de problemas;
+3. Entender o que é uma abstração.
+
+Aula 02:
+1. Entender o que é um algoritmo;
+2. Entender o que é um pseudocódigo.
+
+Aula 03:
+1. Entender o que é um fluxograma;
+2. Aprender sobre variáveis, constantes e tipos de dados.
+
+Aula 04:
+1. Conhecer as expressões aritméticas, literais e as expressões relacionais;
+2. Entender e aplicar as tomadas de decisão em um algoritmo.
+
+Aula 05:
+1. Aprender o que é concatenação e como utilizá-la.
+
+Tópico Introdução ao Portugol
+
+Aula 06:
+1. Aprender o que é uma estrutura de repetição e como utilizá-la.
+
+Aula 07:
+1. Aprender o que são linguagens de programação;
+2. Introdução ao Portugol (Utilizando pseudocódigos na prática).
+
+Aula 08:
+1. Aprender a utilizar os desvios condicionais (estruturas de decisão) no Portugol;
+2. Boas práticas de programação - Comentários.
+
+Aula 09:
+1. Aprender a utlizar os laços de repetição no Portugol.
+
+Aula 10:
+1. Entender o que é uma matriz e um vetor e entender a sua aplicação práticas.
+
+Curso Introdução ao Git e ao GitHub
+
+Tópico Introdução ao Git
+
+Aula 01:
+1. Entendendo o que é Git;
+2. Entendendo a importância do Git.
+
+Tópico Navegação via command line interface e instalação
+
+Aula 02:
+1. Comandos básicos para um bom desempenho no terminal.
+
+Aula 03:
+1. Realizando a instalação do GIT.
+
+Tópico Entendendo como o Git funciona por baixo dos panos
+
+Aula 04:
+1. Tópicos fundamentais para entender o funcionamento do Git.
+
+Aula 05:
+1. Objetos internos do Git.
+
+Aula 06:
+1. Chave SSH;
+2. Token.
+
+Tópico Primeiros comandos com Git
+
+Aula 07:
+1. Iniciando o Git;
+2. Criando um commit.
+
+Tópico Ciclo de vida dos arquivos no Git
+
+Aula 08:
+1. Passo a passo no ciclo de vida.
+
+Tópico Introdução ao GitHub
+
+Aula 09:
+1. Trabalhando com o GitHub.
+
+Tópico Resolvendo conflitos
+
+Aula 10:
+1. Como os conflitos acontecem no GitHub;
+2. Como resolver os conflitos que acontecem no GitHub.

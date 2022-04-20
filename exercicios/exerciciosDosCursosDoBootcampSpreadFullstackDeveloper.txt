@@ -1,0 +1,15 @@
+Curso "Lógica de Programação Essencial"
+
+Aula 01:
+Crie um mapa mental para resolver um determinado problema, por exemplo, calcular a média aritmética de 4 notas, sabendo que as notas são as seguntes: Nota 1: 5, Nota 2: 7, Nota 3: 10, Nota 4: 3.
+
+Aula 02:
+1 - Crie um algoritmo do seu dia;
+2 - Abra o site "https://studio.code.org/s/mc/stage/1/puzzle/1" e tente resolver todos os problemas em menos de uma hora.
+
+Aula 10:
+Crie uma matriz para armazernar e exibir as informações da tabela.
+
+Projeto: Desafio "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso"
+
+- Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;-)
